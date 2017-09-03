@@ -1,8 +1,8 @@
 {
   "expo": {
-    "name": "react-osclass",
-    "description": "An React OsClass App",
-    "slug": "react-osclass",
+    "name": "ExpoWebNativeApp",
+    "description": "An Expo React Native and Web App Boilerplate",
+    "slug": "ExpoWebNativeApp",
     "privacy": "public",
     "sdkVersion": "20.0.0",
     "version": "1.0.0",
